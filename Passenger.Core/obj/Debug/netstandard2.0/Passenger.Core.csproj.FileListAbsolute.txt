@@ -1,0 +1,8 @@
+/home/hubert/Documents/Passenger/Passenger.Core/bin/Debug/netstandard2.0/Passenger.Core.deps.json
+/home/hubert/Documents/Passenger/Passenger.Core/bin/Debug/netstandard2.0/Passenger.Core.dll
+/home/hubert/Documents/Passenger/Passenger.Core/bin/Debug/netstandard2.0/Passenger.Core.pdb
+/home/hubert/Documents/Passenger/Passenger.Core/obj/Debug/netstandard2.0/Passenger.Core.csproj.CoreCompileInputs.cache
+/home/hubert/Documents/Passenger/Passenger.Core/obj/Debug/netstandard2.0/Passenger.Core.AssemblyInfoInputs.cache
+/home/hubert/Documents/Passenger/Passenger.Core/obj/Debug/netstandard2.0/Passenger.Core.AssemblyInfo.cs
+/home/hubert/Documents/Passenger/Passenger.Core/obj/Debug/netstandard2.0/Passenger.Core.dll
+/home/hubert/Documents/Passenger/Passenger.Core/obj/Debug/netstandard2.0/Passenger.Core.pdb

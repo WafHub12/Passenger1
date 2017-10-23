@@ -1,0 +1,8 @@
+/home/hubert/Documents/Passenger/Passenger.Tests.EndToEnd/bin/Debug/netstandard2.0/Passenger.Tests.EndToEnd.deps.json
+/home/hubert/Documents/Passenger/Passenger.Tests.EndToEnd/bin/Debug/netstandard2.0/Passenger.Tests.EndToEnd.dll
+/home/hubert/Documents/Passenger/Passenger.Tests.EndToEnd/bin/Debug/netstandard2.0/Passenger.Tests.EndToEnd.pdb
+/home/hubert/Documents/Passenger/Passenger.Tests.EndToEnd/obj/Debug/netstandard2.0/Passenger.Tests.EndToEnd.csproj.CoreCompileInputs.cache
+/home/hubert/Documents/Passenger/Passenger.Tests.EndToEnd/obj/Debug/netstandard2.0/Passenger.Tests.EndToEnd.AssemblyInfoInputs.cache
+/home/hubert/Documents/Passenger/Passenger.Tests.EndToEnd/obj/Debug/netstandard2.0/Passenger.Tests.EndToEnd.AssemblyInfo.cs
+/home/hubert/Documents/Passenger/Passenger.Tests.EndToEnd/obj/Debug/netstandard2.0/Passenger.Tests.EndToEnd.dll
+/home/hubert/Documents/Passenger/Passenger.Tests.EndToEnd/obj/Debug/netstandard2.0/Passenger.Tests.EndToEnd.pdb
